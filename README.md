@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🔭 Passionate AI Engineer with a strong focus on Generative AI, LLMOps, Machine Learning, and Deep Learning<br>- 🚀 Skilled in building end-to-end AI solutions: from data pipelines and model training to deployment & inference  <br>- 💡 Creator of projects like RAG apps, content summarizers, legal AI assistants, and AI-powered QnA chatbot  <br>- 📈 Actively exploring agentic AI & production-grade AI systems<br>- 🤝 Love doing competitive programming & DSA<br>✨ *Always curious, always learning, and always building.*<br>
+- 🔭 Passionate undergraduate with a strong focus on Generative AI, LLMOps, Machine Learning, and Deep Learning.<br>- 🚀 Skilled in building end-to-end AI solutions: from data pipelines and model training to deployment & inference  <br>- 💡 Creator of projects like RAG apps, content summarizers, legal AI assistants, and AI-powered QnA chatbot  <br>- 📈 Actively exploring agentic AI & production-grade AI systems<br>- 🤝 Love doing competitive programming & DSA<br>✨ *Always curious, always learning, and always building.*<br> Have a deterministic goal of becoming an AI Engineer.
 
 
 ## 🌐 Socials:
