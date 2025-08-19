@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&duration=2000&center=true&vCenter=true&repeat=true&width=550&height=60&color=36BCF7&lines=AI+Engineer;Generative+AI;LLM+Ops;Machine+Learning;Deep+Learning;Competitive+Programming" alt="Typing SVG" />
+  </a>
+</p>
+
+
 # 💫 About Me:
 - 🔭 Passionate AI Engineer with a strong focus on Generative AI, LLMOps, Machine Learning, and Deep Learning<br>- 🚀 Skilled in building end-to-end AI solutions: from data pipelines and model training to deployment & inference  <br>- 💡 Creator of projects like RAG apps, content summarizers, legal AI assistants, and AI-powered QnA chatbot  <br>- 📈 Actively exploring agentic AI & production-grade AI systems<br>- 🤝 Love doing competitive programming & DSA<br>✨ *Always curious, always learning, and always building.*<br>
 
