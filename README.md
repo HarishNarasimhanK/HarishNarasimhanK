@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&duration=2000&center=true&vCenter=true&repeat=true&width=550&height=60&color=36BCF7&lines=AI+Engineer;Generative+AI;LLM+Ops;Machine+Learning;Deep+Learning;Competitive+Programming" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&duration=2000&center=true&vCenter=true&repeat=true&width=700&height=70&color=ff4b1f,ff9068&lines=AI+Engineer;Generative+AI;LLM+Ops;Machine+Learning;Deep+Learning;" alt="Typing SVG" />
 </p>
+
 
 
 # 💫 About Me:
