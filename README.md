@@ -1,205 +1,45 @@
-```md
-<div align="center">
+## Hey 👋, I'm Harish
 
-# Hi, I'm Harish Narasimhan 👋
+I'm a final-year CS student who spent time as an SDE Intern at AWS, working on OpenSearch. I think the best engineers never really stop learning. I like exploring new tech and figuring out clean, simple solutions to hard problems. I don't chase wins so much as I chase understanding — every problem is just a chance to get a little better at this.
 
-### Software Engineer | Open Source Contributor @ OpenSearch
+I'm mainly drawn to backend engineering and want to get better at building production-grade AI systems — right now that means digging into ML/AI and multi-agent architectures that actually solve real problems, not just demo well.
 
-**Distributed Systems • AI • Machine Learning • Generative AI**
+- 🔭 Currently spending most of my time on backend engineering and distributed systems
+- 🌱 Learning more about ML systems and how production AI actually gets built
+- 🧩 Also just enjoy DSA and competitive programming on the side
+- 📫 Reach me at harishnarasimhan0135@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Open+Source+Contributor;Distributed+Systems;Machine+Learning;Generative+AI;Always+Learning+Something+New.)](https://git.io/typing-svg)
+<br>
 
-<p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Languages & Tools
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,rust" alt="languages" height="45"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" height="28"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=linux,aws,git" alt="tools" height="45"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="opensearch" height="28"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
-
-</div>
-
----
-
-# About Me
-
-- 🎓 Computer Science Undergraduate at **SASTRA University**
-- ☁️ Former **Software Development Engineer Intern @ AWS**
-- 🌍 Open Source Contributor to **OpenSearch**
-- 🧠 Passionate about **Distributed Systems**, **AI**, **Machine Learning**, and **Generative AI**
-- 💻 Building scalable software and developer tools
-- 🚀 Always exploring new technologies and solving challenging engineering problems
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,kotlin,bash"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge" alt="agentic ai" height="28"/>
+<img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge" alt="genai" height="28"/>
+<img src="https://img.shields.io/badge/Machine_Learning-1E3A8A?style=for-the-badge" alt="ml" height="28"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0F766E?style=for-the-badge" alt="dl" height="28"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-B45309?style=for-the-badge" alt="multi agent systems" height="28"/>
 </p>
 
-### Backend & Frameworks
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs"/>
+### Find me here
+
+<p align="left">
+<a href="https://www.linkedin.com/in/harish-narasimhan-k/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://x.com/HarishK86889090" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
+<a href="https://leetcode.com/u/Harish_Narasimhan_K/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/></a>
+<a href="https://codeforces.com/profile/Harish_0135" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
+<a href="https://www.codechef.com/users/harishk_0135" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/></a>
+<a href="https://drive.google.com/drive/folders/1qOEf1a3ZKZV-nnyX-fliZ0qnEQZ_nw0u?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume"/></a>
 </p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF"/>
-<img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma"/>
-</p>
-
----
-
-# Currently Working On
-
-- 🔭 Open Source Contributions
-- 🤖 AI Agents & LLM Applications
-- ⚡ Distributed Systems
-- ☁️ Cloud Native Development
-- 📚 Learning something new every day
-
----
-
-# Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 OpenSearch Contributions | Performance optimization, memory management, distributed systems |
-| 📊 QuickInsights AI | Marketing analytics platform powered by LLMs and RAG |
-| ⚖️ VidhiVani | AI-powered legal assistant |
-| 🛠️ DevForge | Reproducible developer environment for Linux, macOS & WSL |
-| 📄 RAG PDF Chat | Chat with PDFs using Retrieval-Augmented Generation |
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# Open to Collaborate
-
-I'm always interested in collaborating on:
-
-- Open Source
-- Distributed Systems
-- Backend Engineering
-- AI & Machine Learning
-- Developer Tools
-- Cloud Infrastructure
-
----
-
-# Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### *Building software that is simple, scalable, and impactful.*
-
-⭐ If you like my work, consider starring a repository!
-
-</div>
-```
-
