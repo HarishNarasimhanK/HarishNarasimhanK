@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Harish
 
-I'm a final-year CS student who spent time as an SDE Intern at AWS, working on OpenSearch. I think the best engineers never really stop learning. I like exploring new tech and figuring out clean, simple solutions to hard problems. I don't chase wins so much as I chase understanding, every problem is just a chance to get a little better at this.
+I'm a recently graduated CS student who spent time as an SDE Intern at AWS, working on OpenSearch. I think the best engineers never really stop learning. I like exploring new tech and figuring out clean, simple solutions to hard problems. I don't chase wins so much as I chase understanding, every problem is just a chance to get a little better at this.
 
 I'm mainly drawn to backend engineering and want to get better at building production-grade AI systems — right now that means digging into ML/AI and multi-agent architectures that actually solve real problems, not just demo well.
 
