@@ -8,7 +8,7 @@ I'm mainly drawn to backend engineering and want to get better at building produ
 - 🌱 Learning more about ML systems and how production AI actually gets built
 - 🧩 Also just enjoy DSA and competitive programming on the side
 - 📫 Reach me at harishnarasimhan0135@gmail.com
-- Portfolio: https://harishnarasimhank.github.io/
+- 🫟 Portfolio: https://harishnarasimhank.github.io/
 
 <br>
 
